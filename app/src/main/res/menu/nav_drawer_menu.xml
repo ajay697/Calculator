@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_item_standard"
+            android:title="Standard" />
+        <item android:id="@+id/nav_item_scientific"
+            android:title="Scientific" />
+        <item android:id="@+id/nav_item_tables"
+            android:title="Tables" />
+    </group>
+</menu>
